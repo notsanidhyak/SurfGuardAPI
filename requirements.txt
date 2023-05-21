@@ -5,3 +5,4 @@ googlesearch-python
 python-whois
 numpy
 scikit-learn
+fastapi
