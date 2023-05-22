@@ -1,3 +1,4 @@
+--upgrade pip
 BeautifulSoup4
 uvicorn
 requests
