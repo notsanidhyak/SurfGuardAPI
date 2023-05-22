@@ -6,3 +6,4 @@ python-whois
 numpy
 scikit-learn
 fastapi
+gunicorn
