@@ -1,3 +1,6 @@
+![SurfGuardAPI_Banner](https://github.com/notsanidhyak/SurfGuardAPI/assets/86651116/f57ba747-a1c8-4576-8071-5300735fc1f2)
+
+
 # SurfGuardAPI
 <br>
 
