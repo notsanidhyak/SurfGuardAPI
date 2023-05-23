@@ -8,13 +8,17 @@
 <br>
 
 SurfGuardAPI is the brain behind [SurfGuard](https://github.com/notsanidhyak/SurfGuard-Chrome), a plugin for browsers which helps you surf the internet waves safely and securely. It thoroughly analyzes the site you are on and tells you whether it is safe to surf or not. The analysis is done by this custom made SurfGuard API which uses ML model having over 92.79% accuracy on training data and 92.67% accuracy on testing data.
+The service is live [here](https://surfguardsays.onrender.com) and can handle upto **maximum 8** concurrent requests.
 <br>
 <br>
+
+> View API's uptime [report](https://stats.uptimerobot.com/gX1q8UqzLG/794416744)
+
+<br>
+
 
 ### ⚡ How to use API?
 <br>
-
-- The API is live [here](https://surfguardsays.onrender.com) and can handle upto **maximum 8** concurrent requests.
 
 - Send a GET request to 
 ```
