@@ -422,6 +422,11 @@ def StatisticalReportsBasedFeature(url):
     except:
         return 1
 
+@app.get("/")
+
+def home():
+    return "SurfGuardAPI is live and is working perfectly"
+
 @app.get("/getStatus")
 
 def extract(url: str):
