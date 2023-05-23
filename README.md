@@ -25,7 +25,7 @@ The service is live [here](https://surfguardsays.onrender.com) and can handle up
 https://surfguardsays.onrender.com/getStatus?url=<url_you_wish_to_analyze>
 ```
 
-- Response is sent within 10-15 seconds but may take up to 25 seconds in few scenarios.
+- Response is sent within 10-15 seconds but may take up to 25 seconds in few scenarios (due to dependencies).
 <br>
 
 ### 🤝 How to Contibute?
