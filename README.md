@@ -12,7 +12,8 @@ The service is live [here](https://surfguardsays.onrender.com) and can handle up
 <br>
 <br>
 
-> View API's uptime [report](https://stats.uptimerobot.com/gX1q8UqzLG/794416744)
+> View API's uptime [report](https://stats.uptimerobot.com/gX1q8UqzLG/794416744) <p>
+> View notebook [here](https://github.com/notsanidhyak/SurfGuardAPI/blob/main/SurfGuard.ipynb)
 
 <br>
 
